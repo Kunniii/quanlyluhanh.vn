@@ -1,4 +1,7 @@
+__pycache__
 venv
 *.csv
 *.xlsx
 *.xls
+*.html
+output/
